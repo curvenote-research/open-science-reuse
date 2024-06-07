@@ -1,0 +1,37 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: e3bf718d-3858-4bb7-9d75-8cb52cea675c
+  title: Embracing Reuse in Scientific Communication
+  subtitle: Introducing MyST based tools for easily reusing scientific content
+  date: 2024-05-11
+  banner: banner.png
+  thumbnail: thumbnail.png
+  description: The ability to build upon existing knowledge is fundamental to the process of science. Yet, despite the rapid advancement of science, the methods for citing and referencing content have remained surprisingly static. Curvenote is introducing new tools in MyST Markdown to create rich references and embed open-access content.
+  authors:
+    - name: Rowan Cockett
+      orcid: 0000-0002-7859-8394
+      corresponding: true
+      email: rowan@curvenote.com
+      affiliation:
+        - Curvenote Inc.
+        - Executable Books
+  tags:
+    - MyST
+    - Reuse
+    - open-source
+  keywords:
+    - MyST Markdown
+    - Structured Data
+    - Reuse
+    - FAIR data principles
+  references:
+    3dem7: https://www.appliedgeophysics.org/articles/2023-heagy-oldenburg-3dem7
+    docs: https://curvenote.com/docs/
+    mystmd: https://mystmd.org/guide/
+    spec: https://mystmd.org/spec/
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/curvenote-research/open-science-reuse
+site:
+  template: article-theme
