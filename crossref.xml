@@ -1,0 +1,70 @@
+<doi_batch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5.3.1"
+  xmlns="http://www.crossref.org/schema/5.3.1" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
+  xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 http://www.crossref.org/schemas/crossref5.3.1.xsd">
+  <head>
+    <doi_batch_id>b586f564-1565-4fc7-ba8c-53ea2a7a5a65</doi_batch_id>
+    <timestamp>1719441246923</timestamp>
+    <depositor>
+      <depositor_name>Curvenote</depositor_name>
+      <email_address>doi@curvenote.com</email_address>
+    </depositor>
+    <registrant>Crossref</registrant>
+  </head>
+  <body>
+    <posted_content>
+      <contributors>
+        <person_name sequence="first" contributor_role="author">
+          <given_name>Rowan</given_name>
+          <surname>Cockett</surname>
+          <affiliations>
+            <institution>
+              <institution_name>Curvenote Inc.</institution_name>
+              <institution_id type="ror">https://ror.org/02mz0e468</institution_id>
+            </institution>
+            <institution>
+              <institution_name>Executable Books</institution_name>
+            </institution>
+          </affiliations>
+          <ORCID>https://orcid.org/0000-0002-7859-8394</ORCID>
+          <alt-name>
+            <string-name>Rowan Cockett</string-name>
+          </alt-name>
+        </person_name>
+      </contributors>
+      <titles>
+        <title>Embracing Reuse in Scientific Communication</title>
+        <subtitle>Introducing MyST based tools for easily reusing scientific content</subtitle>
+      </titles>
+      <posted_date media_type="online">
+        <month>05</month>
+        <day>11</day>
+        <year>2024</year>
+      </posted_date>
+      <jats:abstract>
+        <jats:p>The ability to build upon existing knowledge is fundamental to the process of
+          science. Yet, despite the rapid advancement of science, the methods for citing and
+          referencing content have remained surprisingly static. Today, we’re on the brink of
+          transforming how we interact with scientific literature and educational content. The
+          Curvenote team has been working in the MyST Markdown ecosystem to simplify the ways to
+          reference and embed figures directly into publications. We are starting this process by
+          integrating a <jats:ext-link ext-link-type="uri"
+            xlink:href="https://mystmd.org/guide/external-references#tbl-syntax-xref">simple
+            markdown syntax for hover-references</jats:ext-link>, which aims to not only streamline
+          referencing academic citations but also enhance the readability and interactive capacity
+          of scholarly articles. This blog post explores the importance of scientific reuse, as the
+          driving FAIR principle, and introduces new tools to reshape how knowledge is reused,
+          shared, and improved in the scientific community.</jats:p>
+      </jats:abstract>
+      <ai:program name="AccessIndicators">
+        <ai:free_to_read></ai:free_to_read>
+        <ai:license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+      </ai:program>
+      <doi_data>
+        <doi>10.62329/FMDW8234</doi>
+        <resource content_version="vor">https://doi.curvenote.com/10.62329/FMDW8234</resource>
+      </doi_data>
+    </posted_content>
+  </body>
+</doi_batch>

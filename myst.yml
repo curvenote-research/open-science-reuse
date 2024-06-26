@@ -8,13 +8,15 @@ project:
   banner: banner.png
   thumbnail: thumbnail.png
   description: The ability to build upon existing knowledge is fundamental to the process of science. Yet, despite the rapid advancement of science, the methods for citing and referencing content have remained surprisingly static. Curvenote is introducing new tools in MyST Markdown to create rich references and embed open-access content.
+  doi: https://doi.org/10.62329/FMDW8234
   authors:
     - name: Rowan Cockett
       orcid: 0000-0002-7859-8394
       corresponding: true
       email: rowan@curvenote.com
       affiliation:
-        - Curvenote Inc.
+        - name: Curvenote Inc.
+          ror: https://ror.org/02mz0e468
         - Executable Books
   tags:
     - MyST
